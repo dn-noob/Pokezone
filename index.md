@@ -2,6 +2,8 @@
 
 **Pokézone offers the best Pokémon experience on discord!!**
 
+**Pokézone is New discord bot, which give you the best expirience to catch, evolve, duel, trade & much more.**
+
 # Commands
 
 The commands that Pokézone bot offers are:
@@ -31,13 +33,20 @@ The commands that Pokézone bot offers are:
 - trade cancle `(to cancle your current trade)`
 
 ## Gamble
+- `()`
+- `()`
 
 ## Market 
+- `()`
+- `()`
 
 ## Auction 
+- `()`
+- `()`
 
-## Shop
-- Buy different forms of pokemons 
+## Shop 
+- `(Buy different forms of pokemons)`
+- `()`
 
 **Bold** and _Italic_ 
 
