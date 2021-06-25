@@ -37,16 +37,30 @@ The commands that Pokézone bot offers are:
 - `()`
 
 ## Market 
-- `()`
-- `()`
+- market `(to view the pokemons in the market)`
+- market listing `(to view the pokemons which you have added)`
+- market add `(to add a pokemon in the market)`
+- market info `(to info the pokemon in the market)`
+- market 
 
 ## Auction 
-- `()`
-- `()`
+- auction `(to view the pokemons in the auction)`
+- auction bid `(to bid on a pokemon in the auction)`
+- auction info `(to info a pokemon in the auction)`
+- auction add `(to add apokemon in the auction)`
 
 ## Shop 
 - `(Buy different forms of pokemons)`
-- `()`
+- shop 1 `(to view XP Booster's & candie's)`
+- shop 2 `(to view Evolution Stones)`
+- shop 3 `(to view Pokemon forms)`
+- shop 4 `(to view Held items)`
+- shop 5 `(to view Nature Modifiers)`
+- shop 6 `(to view Pokemon evolutions)`
+- shop 7 `(to view Mega evolutions)`
+- shop 8 `(to view Extra items)`
+
+
 
 **Bold** and _Italic_ 
 
